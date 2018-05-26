@@ -1,3 +1,3 @@
 ## About Blogsite
 
-Description here ..
+Description here ...
